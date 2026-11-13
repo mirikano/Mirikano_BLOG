@@ -1,3 +1,47 @@
-baseURL: https://example.org/
-locale: en-us
-title: My New Hugo Project
+baseURL: "https://mirikano.github.io/Mirikano_BLOG/"
+languageCode: "ja"
+title: "Mirikano_BLOG"
+theme: "papermod"
+
+params:
+  defaultTheme: "auto"
+  ShowSearch: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    title: "ABOUT"
+    Content: |
+      はじめまして、Mirikanoです！
+
+      このブログでは、FPGA・論理回路などの技術メモや就活の記録、趣味について発信しています。
+
+      * **技術**: FPGA、論理回路
+      * **キャリア**: 就活経験談
+      * **趣味**: ダーツ、アイドル推し活
+
+      [自己紹介の詳細はこちら](/about/) ｜ [Bluesky](https://bsky.app/profile/mirikano.bsky.social) ｜ [GitHub](https://github.com/mirikano)
+
+  socialIcons:
+    - name: "bluesky"
+      url: "https://bsky.app/profile/mirikano.bsky.social"
+    - name: "github"
+      url: "https://github.com/mirikano"
+
+menu:
+  main:
+    - identifier: about
+      name: 自己紹介
+      url: /about/
+      weight: 10
+    - identifier: posts
+      name: 記事一覧
+      url: /posts/
+      weight: 20
+    - identifier: categories
+      name: カテゴリー
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: タグ
+      url: /tags/
+      weight: 40

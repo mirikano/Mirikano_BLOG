@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T16:48:00+09:00'
-draft: true
+draft: false
 title: '長距離通学のすすめ'
 ---
 この記事はK3 Advent Calendar 2025の8日目です。

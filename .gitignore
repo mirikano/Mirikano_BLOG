@@ -1,0 +1,14 @@
+# Hugoの出力・キャッシュディレクトリ
+/public/
+/resources/
+/target/
+
+# OSが自動生成する隠しファイル
+.DS_Store
+Thumbs.db
+
+# VS Codeの設定ファイル（必要に応じて）
+.vscode/
+
+# 非公開のアイデアメモを置く場合（先ほどのメモフォルダ）
+/memo/

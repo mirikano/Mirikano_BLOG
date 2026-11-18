@@ -6,7 +6,15 @@
     <description>Recent content on Mirikano_BLOG</description>
     <generator>Hugo</generator>
     <language>ja</language>
+    <lastBuildDate>Wed, 18 Nov 2026 18:46:09 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/Mirikano_BLOG/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【就活体験記】</title>
+      <link>http://localhost:1313/Mirikano_BLOG/posts/job_hunting/</link>
+      <pubDate>Wed, 18 Nov 2026 18:46:09 +0900</pubDate>
+      <guid>http://localhost:1313/Mirikano_BLOG/posts/job_hunting/</guid>
+      <description>半導体業界の厳選した2社を受けて全勝した就活の記録</description>
+    </item>
     <item>
       <title>自己紹介</title>
       <link>http://localhost:1313/Mirikano_BLOG/about/</link>
